@@ -1,0 +1,212 @@
+[
+    {
+        "id":1,
+        "name":"ZAZA SHOP",
+        "city":"Za-Town",
+        "products":[
+            {
+                "id":1,
+                "name":"za product1",
+                "price":41,
+                "salePrice":35
+
+            },
+            {
+                "id":2,
+                "name":"za product2",
+                "price":100,
+                "salePrice":95
+
+            },
+            {
+                "id":3,
+                "name":"za product3",
+                "price":874,
+                "salePrice":500
+
+            },
+            {
+                "id":4,
+                "name":"za product4",
+                "price":77,
+                "salePrice":55
+
+            },
+            {
+                "id":5,
+                "name":"za product5",
+                "price":445,
+                "salePrice":400
+
+            }
+        ]
+    },
+    {
+        "id":2,
+        "name":"Mashu Mashu Center",
+        "city":"Mashu Mashu Village",
+        "products":[
+            {
+                "id":1,
+                "name":"Mashu Mashu product1",
+                "price":7,
+                "salePrice":5
+
+            },
+            {
+                "id":2,
+                "name":"Mashu Mashu product2",
+                "price":78,
+                "salePrice":65
+
+            },
+            {
+                "id":3,
+                "name":"Mashu Mashu product3",
+                "price":20,
+                "salePrice":15
+
+            },
+            {
+                "id":4,
+                "name":"Mashu Mashu product4",
+                "price":200,
+                "salePrice":180
+
+            },
+            {
+                "id":5,
+                "name":"Mashu Mashu product5",
+                "price":67,
+                "salePrice":54
+
+            }
+        ]
+    },
+    {
+        "id":3,
+        "name":"GoaalNefesh Market",
+        "city":"New-GoaalNefesh",
+        "products":[
+            {
+                "id":1,
+                "name":"GoaalNefesh product1",
+                "price":15,
+                "salePrice":10
+
+            },
+            {
+                "id":2,
+                "name":"GoaalNefesh product2",
+                "price":220,
+                "salePrice":200
+
+            },
+            {
+                "id":3,
+                "name":"GoaalNefesh product3",
+                "price":50,
+                "salePrice":25
+
+            },
+            {
+                "id":4,
+                "name":"GoaalNefesh product4",
+                "price":450,
+                "salePrice":400
+
+            },
+            {
+                "id":5,
+                "name":"GoaalNefesh product5",
+                "price":300,
+                "salePrice":150
+
+            }
+        ]
+    },{
+        "id":4,
+        "name":"WaWaWiWa Merchandise",
+        "city":"WaWaWiWa District",
+        "products":[
+            {
+                "id":1,
+                "name":"WaWaWiWa product1",
+                "price":48596,
+                "salePrice":40000
+
+            },
+            {
+                "id":2,
+                "name":"WaWaWiWa product2",
+                "price":670,
+                "salePrice":600
+
+            },
+            {
+                "id":3,
+                "name":"WaWaWiWa product3",
+                "price":14,
+                "salePrice":12
+
+            },
+            {
+                "id":4,
+                "name":"WaWaWiWa product4",
+                "price":130,
+                "salePrice":125
+
+            },
+            {
+                "id":5,
+                "name":"WaWaWiWa  product5",
+                "price":47,
+                "salePrice":40
+
+            }
+        ]
+    },{
+        "id":5,
+        "name":"WQ-DS",
+        "city":"Iuijko",
+        "products":[
+            {
+                "id":1,
+                "name":"WQ-DS product1",
+                "price":5,
+                "salePrice":2
+
+            },
+            {
+                "id":2,
+                "name":"WQ-DS product2",
+                "price":60,
+                "salePrice":50
+
+            },
+            {
+                "id":3,
+                "name":"WQ-DS product3",
+                "price":37,
+                "salePrice":30
+
+            },
+            {
+                "id":4,
+                "name":"WQ-DS product4",
+                "price":2687,
+                "salePrice":2600
+
+            },
+            {
+                "id":5,
+                "name":"WQ-DS  product5",
+                "price":89,
+                "salePrice":80
+
+            }
+        ]
+    }
+    
+    
+]
