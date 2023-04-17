@@ -38,9 +38,14 @@ StoresRouter.post(`/add`,async (req,res)=>{
 });
 StoresRouter.post(`/:store/products/add`, async (req,res)=>{
     try {
-        
+        let {id,name,city,ptoducts} = req.body;
+        let stores = path.join(__dirname,'db','stores.json');
+        let store = {id,name,city,ptoducts};
+        stores.push(store);
+        res.status(201).json(stores);
+
     } catch (error) {
-        
+        res.status(500).json({error0});
     }
 });
 
