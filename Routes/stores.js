@@ -45,7 +45,7 @@ StoresRouter.post(`/:store/products/add`, async (req,res)=>{
         res.status(201).json(stores);
 
     } catch (error) {
-        res.status(500).json({error0});
+        res.status(500).json({error});
     }
 });
 
